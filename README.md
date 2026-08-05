@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on [fullstack multi vendor ecommerce](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce)<br><br>- 🌱 I’m currently learning **NESTJS, NEXTJS, GO**<br><br>- 👨‍💻 All of my projects are available at [https://fullstack-multi-vendor-ecommerce.vercel.app/](https://fullstack-multi-vendor-ecommerce.vercel.app/)<br><br>- 📫 How to reach me **chaugiakhang193@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/16NQVZs-1uu6up3vrj7MTdEdgaQlsmBrx/view?usp=sharing](https://drive.google.com/file/d/16NQVZs-1uu6up3vrj7MTdEdgaQlsmBrx/view?usp=sharing)
+<br>- 🔭 I’m currently working on [fullstack multi vendor ecommerce](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce)<br><br>- 🌱 I’m currently learning **NESTJS, NEXTJS, GO**<br><br>- 👨‍💻 All of my projects are available at [https://fullstack-multi-vendor-ecommerce.vercel.app/](https://fullstack-multi-vendor-ecommerce.vercel.app/)<br><br>- 📫 How to reach me **chaugiakhang193@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/16NQVZs-1uu6up3vrj7MTdEdgaQlsmBrx/view?usp=sharing]([https://drive.google.com/file/d/16NQVZs-1uu6up3vrj7MTdEdgaQlsmBrx/view?usp=sharing](https://docs.google.com/document/d/1yi1aelFcPPiFG44GblT4AKw4kbWy0uxliNGLS7MON60/edit?tab=t.0))
 
 
 # 💻 Tech Stack:
