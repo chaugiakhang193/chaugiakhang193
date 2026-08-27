@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend" /></td>
   </tr>
   <tr>
     <td align="center"><b>DevOps &amp; Deploy</b></td>
@@ -36,7 +36,7 @@
 </table>
 # 📊 GitHub Stats:
 
-### Recently
+## Recently
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
@@ -47,7 +47,7 @@
 | [`gpa-to-goal`](https://github.com/chaugiakhang193/gpa-to-goal) | [1. chore(repo): initialize Go module and ignore rules](https://github.com/chaugiakhang193/gpa-to-goal/commit/c61c43723391dfb83b15d21f8a3959d01a8bee8a) | 2 days ago |
 <!--END_SECTION:activity-->
 
-### By the numbers
+## By the numbers
 <!--START_SECTION:stats-->
 - **706** public commits
 - **10** own repositories (forks excluded)
