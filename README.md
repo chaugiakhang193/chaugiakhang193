@@ -35,11 +35,26 @@
   </tr>
 </table>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chaugiakhang193&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=chaugiakhang193&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chaugiakhang193&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Recently
+<!--START_SECTION:activity-->
+| Repo | Commit | When |
+| :--- | :--- | ---: |
+| [`chaugiakhang193`](https://github.com/chaugiakhang193/chaugiakhang193) | [docs: swap the badge wall for a grouped skillicons tech table](https://github.com/chaugiakhang193/chaugiakhang193/commit/e7dcabb56b4b9bcd63db65b2c0541af86c6202dc) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [480. feat(chat): accept authenticated websocket connections](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/6c30925c59add7abbe5241596a827c1d0c4c3de2) | yesterday |
+| [`gpa-to-goal`](https://github.com/chaugiakhang193/gpa-to-goal) | [1. chore(repo): initialize Go module and ignore rules](https://github.com/chaugiakhang193/gpa-to-goal/commit/c61c43723391dfb83b15d21f8a3959d01a8bee8a) | 2 days ago |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [479. feat(chat): expose the inbox and message history over HTTP](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/6f0ceed7bc7d33568521d346731785bc9b66f486) | 2 days ago |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [478. feat(chat): persist and read one-to-one conversations](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/168e5d75665f750f5907d3dab7e9b50301350d56) | 2 days ago |
+<!--END_SECTION:activity-->
+
+### By the numbers
+<!--START_SECTION:stats-->
+- **704** public commits
+- **10** own repositories (forks excluded)
+- **4** languages — TypeScript, Go, JavaScript, Java
+- **1** star earned
+<!--END_SECTION:stats-->
+
+<img src="./assets/streak.svg" alt="GitHub streak" width="495" />
 
 ---
-[![](https://komarev.com/ghpvc/?username=chaugiakhang193&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

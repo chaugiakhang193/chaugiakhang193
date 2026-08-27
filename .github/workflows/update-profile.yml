@@ -1,0 +1,75 @@
+name: Update profile
+
+on:
+  schedule:
+    # 01:00 UTC = 08:00 Vietnam time
+    - cron: "0 1 * * *"
+    # 13:00 UTC = 20:00 Vietnam time — fallback run when the morning cron is skipped
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-profile.yml"
+      - "scripts/update-readme.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PROFILE_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@51cfb8879073b4c016ce6286016de0b14d179077 # v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&date_format=j/n/Y
+          path: assets/streak.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
+
+      - name: Quality gate — validate streak card, keep last known-good
+        run: |
+          card=assets/streak.svg
+          bad=0
+          test -s "$card" || bad=1
+          grep -q '<svg' "$card" 2>/dev/null || bad=1
+          grep -q 'mask_out_ring_behind_fire' "$card" 2>/dev/null || bad=1
+          if grep -Eiq 'Something went wrong|Failed to retrieve|Maximum retries|>Error<' "$card" 2>/dev/null; then
+            bad=1
+          fi
+          if [ "$bad" = "1" ]; then
+            echo "::warning::streak.svg looks broken — restoring the last committed copy."
+            git checkout HEAD -- "$card" 2>/dev/null || echo "::warning::No previous copy to restore (first run)."
+          else
+            echo "streak.svg is valid."
+          fi
+
+      - name: Refresh README sections
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node scripts/update-readme.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "chaugiakhang193"
+          git config user.email "chaugiakhang193@gmail.com"
+          git add README.md assets/streak.svg
+          if git diff --staged --quiet; then
+            echo "No changes — skipping commit."
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh activity and streak"
+          git push
