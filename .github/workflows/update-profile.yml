@@ -2,10 +2,11 @@ name: Update profile
 
 on:
   schedule:
-    # 01:00 UTC = 08:00 Vietnam time
-    - cron: "0 1 * * *"
-    # 13:00 UTC = 20:00 Vietnam time — fallback run when the morning cron is skipped
-    - cron: "0 13 * * *"
+    # Odd minutes avoid the top-of-hour congestion where GitHub drops scheduled runs.
+    # Three slots per day so a dropped run is covered by the next one.
+    - cron: "23 1 * * *"   # 08:23 Vietnam time
+    - cron: "23 9 * * *"   # 16:23 Vietnam time (midday safety net)
+    - cron: "23 13 * * *"  # 20:23 Vietnam time
   workflow_dispatch:
   push:
     branches: [main]
