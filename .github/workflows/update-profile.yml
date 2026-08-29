@@ -64,6 +64,10 @@ jobs:
         run: node scripts/update-readme.mjs
 
       - name: Commit and push
+        env:
+          # Stamp commits in Vietnam time so contributions land on the local day,
+          # matching the contribution graph the way the profile owner reads it.
+          TZ: Asia/Ho_Chi_Minh
         run: |
           git config user.name "chaugiakhang193"
           git config user.email "chaugiakhang193@gmail.com"
