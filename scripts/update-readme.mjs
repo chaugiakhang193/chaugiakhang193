@@ -37,16 +37,22 @@ function escapePipe(text) {
 }
 
 async function fetchLatestCommits(limit = 5) {
+  // The profile repo only holds this workflow's own auto-commits, so it is
+  // excluded here. Fetch a wider window and filter, then keep the top `limit`.
+  const profileRepo = `${USER}/${USER}`;
   const data = await gh(
-    `/search/commits?q=author:${USER}+is:public&sort=author-date&order=desc&per_page=${limit}`
+    `/search/commits?q=author:${USER}+is:public&sort=author-date&order=desc&per_page=30`
   );
-  return data.items.map((item) => ({
-    title: item.commit.message.split("\n")[0],
-    repoName: item.repository.name,
-    repoFull: item.repository.full_name,
-    url: item.html_url,
-    date: item.commit.author.date,
-  }));
+  return data.items
+    .filter((item) => item.repository.full_name !== profileRepo)
+    .slice(0, limit)
+    .map((item) => ({
+      title: item.commit.message.split("\n")[0],
+      repoName: item.repository.name,
+      repoFull: item.repository.full_name,
+      url: item.html_url,
+      date: item.commit.author.date,
+    }));
 }
 
 async function fetchOwnedRepos() {
@@ -70,6 +76,9 @@ async function buildStats(repos) {
 }
 
 function renderActivity(commits) {
+  if (commits.length === 0) {
+    return "_No recent public commits outside this profile repo._";
+  }
   const rows = commits.map(
     (c) =>
       `| [\`${c.repoName}\`](https://github.com/${c.repoFull}) | [${escapePipe(c.title)}](${c.url}) | ${timeAgo(c.date)} |`
