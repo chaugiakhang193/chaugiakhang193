@@ -34,6 +34,18 @@
     </td>
   </tr>
 </table>
+
+<!--
+FALLBACK when skillicons.dev is down: delete the <table> above and uncomment this block.
+
+**Languages** — Go · TypeScript · JavaScript · HTML · CSS
+**Backend** — NestJS · Node.js · Express · PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ
+**Frontend** — React · Next.js · Tailwind · Bootstrap
+**DevOps & Deploy** — Docker · GitHub Actions · Git · GitHub · Vercel
+**Test & Monitor** — Jest · Sentry
+**Others** — OpenTelemetry · Swagger · Socket.io · React Query
+-->
+
 # 📊 GitHub Stats:
 
 ## Recently
