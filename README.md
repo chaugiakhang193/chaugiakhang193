@@ -52,16 +52,16 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [491. feat(chat): give the storefront a page for talking to a shop](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/14944af2b31cb6723e04b2831473f4e7dcc0af81) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [490. fix(chat): let the direct socket wait out a token still refreshing](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/648b745d94b3b9fdee607db51b023829cc1c0301) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [489. feat(chat): open the realtime channel from the storefront](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/18982662de46351b7e74b2567d262a3d278ab036) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [488. feat(chat): tell the reader which side sent each stored message](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/1853d933354a05f22f38ad9f7559ef30fb4fd988) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [487. test(chat): cover the gates in front of the read endpoint](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/c8d06a8a5087445049cd988af6afb5c6cd5871d8) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [486. refactor(chat): name the write gate after what it resolves](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/b85137eb7a5b60527a5eecaceae9de76d825f9e3) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [485. refactor(chat): name the unread column for what it holds](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/3ca8662f95a98686bd0cf34275876545af40a049) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **733** public commits
+- **736** public commits
 - **10** own repositories (forks excluded)
 - **4** languages — TypeScript, JavaScript, Go, Java
 - **1** star earned
