@@ -1,12 +1,23 @@
 name: Update profile
 
 on:
+  # Measured on this repo over 29/08-01/09: every scheduled run started 4h50m to
+  # 6h30m after its slot, consistently, never on time. GitHub gives no promise
+  # about when a cron fires, and this account clearly sits deep in the queue.
+  #
+  # So the slots below are written as "fire this early and let the drift land it
+  # where we want it", not as the wall-clock times they read as. The morning slot
+  # exists because a 08:23 VN slot was drifting to ~13:20 VN, leaving the profile
+  # showing the previous day's streak all morning.
   schedule:
-    # Odd minutes avoid the top-of-hour congestion where GitHub drops scheduled runs.
-    # Three slots per day so a dropped run is covered by the next one.
-    - cron: "23 1 * * *"   # 08:23 Vietnam time
-    - cron: "23 9 * * *"   # 16:23 Vietnam time (midday safety net)
-    - cron: "23 13 * * *"  # 20:23 Vietnam time
+    - cron: "17 20 * * *" # nominal 03:17 VN, lands ~08:20 VN
+    - cron: "17 2 * * *" # nominal 09:17 VN, lands ~14:20 VN
+    - cron: "17 8 * * *" # nominal 15:17 VN, lands ~20:20 VN
+    - cron: "17 14 * * *" # nominal 21:17 VN, lands ~02:20 VN
+  # The reliable trigger. Cron polls and hopes; this fires the moment the data
+  # actually changes, because the repo that changed it says so.
+  repository_dispatch:
+    types: [profile-refresh]
   workflow_dispatch:
   push:
     branches: [main]
@@ -53,8 +64,19 @@ jobs:
           if [ "$bad" = "1" ]; then
             echo "::warning::streak.svg looks broken — restoring the last committed copy."
             git checkout HEAD -- "$card" 2>/dev/null || echo "::warning::No previous copy to restore (first run)."
+            echo "STREAK_FRESH=false" >> "$GITHUB_ENV"
           else
             echo "streak.svg is valid."
+            echo "STREAK_FRESH=true" >> "$GITHUB_ENV"
+          fi
+
+          # Whether the card actually moved. The README only links to this file, so
+          # without this the script would see an unchanged README on a day when the
+          # streak advanced, and would leave a stale date in the footer.
+          if git diff --quiet -- "$card"; then
+            echo "STREAK_CHANGED=false" >> "$GITHUB_ENV"
+          else
+            echo "STREAK_CHANGED=true" >> "$GITHUB_ENV"
           fi
 
       - name: Refresh README sections
