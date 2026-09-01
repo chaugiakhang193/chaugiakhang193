@@ -50,23 +50,29 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 ## Recently
 <!--START_SECTION:activity-->
-_No recent public commits outside this profile repo._
+| Repo | Commit | When |
+| :--- | :--- | ---: |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [503. docs(observability): document the websocket metric pair](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/8962cd56711e6db0cd04401c830600ca96f3a2fc) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [502. feat(observability): count websocket closes by code](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/2dfa0d2b615bf61729c1c29ae6475a3a5bd2687f) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [501. chore(ci): fail the build when sqlc output drifts from query.sql](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/8688f44b93d846c5aeb276bd46c86cdfd2fcd0af) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [500. chore(observability): name chat service spans after the route they served](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/d8835f835265413151fb5a7d6e6a844feebf6d49) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [499. feat(observability): trace the websocket send path](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/7eec9b78ec1ab31acf4125bf285403e88c34e09f) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **0** public commits
+- **753** public commits
 - **10** own repositories (forks excluded)
-- **4** languages — JavaScript, TypeScript, Go, Java
+- **4** languages — TypeScript, JavaScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609012210" alt="GitHub streak" width="495" />
+<img src="./assets/streak.svg?v=202609020538" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>22:10 · 1 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>05:38 · 2 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
