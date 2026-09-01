@@ -61,9 +61,9 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **736** public commits
+- **737** public commits
 - **10** own repositories (forks excluded)
-- **4** languages — TypeScript, JavaScript, Go, Java
+- **4** languages — JavaScript, TypeScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
