@@ -52,27 +52,27 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [503. docs(observability): document the websocket metric pair](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/8962cd56711e6db0cd04401c830600ca96f3a2fc) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [502. feat(observability): count websocket closes by code](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/2dfa0d2b615bf61729c1c29ae6475a3a5bd2687f) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [501. chore(ci): fail the build when sqlc output drifts from query.sql](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/8688f44b93d846c5aeb276bd46c86cdfd2fcd0af) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [500. chore(observability): name chat service spans after the route they served](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/d8835f835265413151fb5a7d6e6a844feebf6d49) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [499. feat(observability): trace the websocket send path](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/7eec9b78ec1ab31acf4125bf285403e88c34e09f) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [508. docs(readme): bring the observability section up to two dashboards](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/81e73829a6b8e97888a3475efc7c1aaeda3634a8) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [507. docs(observability): show the Go services dashboard and its label trap](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/0de054ff317e5d1c710df5928daf9ddc3b64743c) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [506. feat(observability): add a RED dashboard for the two Go services](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/2c92cf66fa22410c615cea2bf63da2827844a048) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [505. docs(observability): explain where the chat RED pair is recorded](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/fadc499912b27e1d1add349fc93a9694da2ef619) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [504. feat(observability): record the RED metric pair on chat http routes](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/0b936f9c440608e3c30c57ebc42e7fd4e56611bd) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **753** public commits
+- **759** public commits
 - **10** own repositories (forks excluded)
 - **4** languages — TypeScript, JavaScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609020538" alt="GitHub streak" width="495" />
+<img src="./assets/streak.svg?v=202609021408" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>05:38 · 2 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>14:08 · 2 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
