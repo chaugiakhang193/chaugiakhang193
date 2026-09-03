@@ -52,27 +52,27 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [516. fix(chat): stop calling a sleeping search service a failure](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/b375b811f642f470a7afddebf72f01ed5183840a) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [515. fix(chat): stop the widget waiting forever, and name the wait honestly](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/73f8bcdda450be59a28fac1e0b0994970f21b846) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [514. feat(chat): show the bot is working before it decides anything](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/0bf036ef8943f7587949070257f98d3a9a090d24) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [513. fix(chat): give the retry enough budget to swallow a slow first round](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/3fee72ee8d5c1a7a838c784f6977adafec20d0ee) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [512. fix(chat): answer the question just asked, not one from an earlier turn](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/2f37ec96c03189dead2a76a2cfb1449cff2e0f69) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [528. docs(chat): document the caller's half of the search tool contract](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/eaafe4211951003bf3cc330132713379ad876bf5) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [527. docs(readme): add ADR-10 for messages pointing at a seat rather than a person](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/edc49d4efc7251c4b70b18c61b86e7da4c92d94e) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [526. docs(readme): add ADR-9 for the provider boundary around the model SDK](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/16c2f798f47f1e1db7702393fbf726e3892c64e8) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [525. docs(readme): add ADR-8 for the chat kill switch](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/67e2316045e46c4ad4fa1cc417555c16f11efee0) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [524. docs(observability): add the chat service trace, the one hop that needs no carrier](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/5f9c52966fe6a533250c2b5e2cbd79ebdc2910a4) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **773** public commits
+- **786** public commits
 - **10** own repositories (forks excluded)
 - **4** languages — TypeScript, JavaScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609040053" alt="GitHub streak" width="495" />
+<img src="./assets/streak.svg?v=202609040538" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>00:53 · 4 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>05:38 · 4 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
