@@ -52,27 +52,27 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [511. docs(chat): correct where the quota counters actually live](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/ffe61223974d04c378fae457473e3319b42131e3) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [510. docs(deploy): add the environment variable that broke 1-to-1 chat](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/59e1afa89b29db5ca0c4d155d24b8e4b303c272d) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [509. docs(readme): show the direct chat working in both directions](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/dc30f2913a03f598edaaea8372f4209f49373753) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [508. docs(readme): bring the observability section up to two dashboards](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/81e73829a6b8e97888a3475efc7c1aaeda3634a8) | yesterday |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [507. docs(observability): show the Go services dashboard and its label trap](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/0de054ff317e5d1c710df5928daf9ddc3b64743c) | yesterday |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [516. fix(chat): stop calling a sleeping search service a failure](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/b375b811f642f470a7afddebf72f01ed5183840a) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [515. fix(chat): stop the widget waiting forever, and name the wait honestly](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/73f8bcdda450be59a28fac1e0b0994970f21b846) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [514. feat(chat): show the bot is working before it decides anything](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/0bf036ef8943f7587949070257f98d3a9a090d24) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [513. fix(chat): give the retry enough budget to swallow a slow first round](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/3fee72ee8d5c1a7a838c784f6977adafec20d0ee) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [512. fix(chat): answer the question just asked, not one from an earlier turn](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/2f37ec96c03189dead2a76a2cfb1449cff2e0f69) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **767** public commits
+- **773** public commits
 - **10** own repositories (forks excluded)
-- **4** languages — JavaScript, TypeScript, Go, Java
+- **4** languages — TypeScript, JavaScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609031951" alt="GitHub streak" width="495" />
+<img src="./assets/streak.svg?v=202609040053" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>19:51 · 3 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>00:53 · 4 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
