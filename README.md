@@ -52,27 +52,27 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [529. docs(readme): realign the frozen chat and search docs with the code](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/3adc29da80faa9a21bfc4c2989f430b77fd4732f) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [528. docs(chat): document the caller's half of the search tool contract](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/eaafe4211951003bf3cc330132713379ad876bf5) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [527. docs(readme): add ADR-10 for messages pointing at a seat rather than a person](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/edc49d4efc7251c4b70b18c61b86e7da4c92d94e) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [526. docs(readme): add ADR-9 for the provider boundary around the model SDK](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/16c2f798f47f1e1db7702393fbf726e3892c64e8) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [525. docs(readme): add ADR-8 for the chat kill switch](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/67e2316045e46c4ad4fa1cc417555c16f11efee0) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [524. docs(observability): add the chat service trace, the one hop that needs no carrier](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/5f9c52966fe6a533250c2b5e2cbd79ebdc2910a4) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **787** public commits
+- **789** public commits
 - **10** own repositories (forks excluded)
-- **4** languages — JavaScript, TypeScript, Go, Java
+- **4** languages — TypeScript, JavaScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609041416" alt="GitHub streak" width="495" />
+<img src="./assets/streak.svg?v=202609041945" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>14:16 · 4 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>19:45 · 4 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
