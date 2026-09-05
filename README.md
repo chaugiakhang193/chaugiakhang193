@@ -52,27 +52,27 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [539. fix(backend): tell a refused wake apart from a bad request on the search metric](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/92c7e80ee18f1112e27b55fb6d38ef2170e63db0) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [538. docs(deploy): write down how the four free services are kept awake](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/604f89b8cae1573d5461796bda740e43ddf4642c) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [537. fix(backend): keep the request path off a search service that may be asleep](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/48d064c59e9324bd9b0111f7bb2c1b64e2f7f333) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [536. fix(frontend): stop the suggestion box asking twice for one query](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/c7e24232eab2ca1f4df9bed3b9a019cb573e3c43) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [535. feat(observability): log the edge headers that come back with a rejected call](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/7fa8f2379b1ecefb9de67ec7b0be18be5b6abe87) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [534. chore(docs): stamp every document with the hour it was last updated](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/86a9dc0b94820338e645008f9c59931114bd0ff9) | today |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [533. docs(notification): add the deep dive and the deploy runbook](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/d6e81d9565bd9ec3a3523cb0012cf399adbe37ab) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **801** public commits
+- **804** public commits
 - **10** own repositories (forks excluded)
 - **4** languages — TypeScript, JavaScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609051850" alt="GitHub streak" width="495" />
+<img src="./assets/streak.svg?v=202609052350" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>18:50 · 5 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>23:50 · 5 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
