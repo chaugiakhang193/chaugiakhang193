@@ -50,25 +50,23 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 ## Recently
 <!--START_SECTION:activity-->
-| Repo | Commit | When |
-| :--- | :--- | ---: |
-| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [540. fix(backend): stop retrying a refused wake into the ground](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/bc94f4a39c25a75b63daca6b6d5e03154e950f9d) | 7 days ago |
+_No recent public commits outside this profile repo._
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **837** public commits
+- **838** public commits
 - **10** own repositories (forks excluded)
 - **4** languages — JavaScript, TypeScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609140025" alt="GitHub streak" width="495" />
+<img src="./assets/streak.svg?v=202609140528" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>00:25 · 14 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>05:28 · 14 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
