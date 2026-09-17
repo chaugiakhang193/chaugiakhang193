@@ -1,8 +1,10 @@
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { fetchLanguageShares, renderLanguageCard } from "./languages.mjs";
 
 const USER = process.env.GH_USER || "chaugiakhang193";
 const TOKEN = process.env.GH_TOKEN;
 const README_PATH = "README.md";
+const LANGUAGES_PATH = "assets/languages.svg";
 
 // The workflow's quality gate sets these. FRESH is false when the streak card came
 // back broken and the gate restored the last committed copy — the README must not
@@ -158,6 +160,33 @@ function renderStreak(version) {
   return `<img src="./assets/streak.svg?v=${version}" alt="GitHub streak" width="495" />`;
 }
 
+// A failed language fetch must not take the rest of the page down with it. The
+// last committed card simply stays, the same way the gate treats the streak card.
+async function refreshLanguageCard(repos) {
+  const profileRepo = `${USER}/${USER}`;
+  try {
+    const shares = await fetchLanguageShares(
+      repos.filter((repo) => repo.full_name !== profileRepo),
+      gh
+    );
+    if (shares.length === 0) return false;
+    const card = renderLanguageCard(shares);
+    const previous = existsSync(LANGUAGES_PATH)
+      ? readFileSync(LANGUAGES_PATH, "utf8")
+      : "";
+    if (card === previous) return false;
+    writeFileSync(LANGUAGES_PATH, card);
+    return true;
+  } catch (error) {
+    console.log(`::warning::Language card not refreshed: ${error.message}`);
+    return false;
+  }
+}
+
+function renderLanguages(version) {
+  return `<img src="./assets/languages.svg?v=${version}" alt="Language share across my repositories" width="495" />`;
+}
+
 function stampVersion(date) {
   const p = vietnamParts(date);
   return `${p.year}${p.month}${p.day}${p.hour}${p.minute}`;
@@ -193,9 +222,10 @@ function inject(content, section, body) {
 }
 
 const repos = await fetchOwnedRepos();
-const [commits, stats] = await Promise.all([
+const [commits, stats, languagesChanged] = await Promise.all([
   fetchLatestCommits(),
   buildStats(repos),
+  refreshLanguageCard(repos),
 ]);
 
 const original = readFileSync(README_PATH, "utf8");
@@ -215,17 +245,19 @@ const probe = inject(
   previousStamp
 );
 
-if (probe === original && !STREAK_CHANGED) {
+if (probe === original && !STREAK_CHANGED && !languagesChanged) {
   console.log("Nothing moved — keeping the existing stamp.");
   process.exit(0);
 }
 
 const now = new Date();
+content = inject(content, "languages", renderLanguages(stampVersion(now)));
 content = inject(content, "streak", renderStreak(stampVersion(now)));
 content = inject(content, "stamp", renderStamp(now));
 writeFileSync(README_PATH, content);
 
 console.log(
   `Done: ${commits.length} commits, ${repos.length} repos, ${stats.commits} public commits total. ` +
-    `Streak card ${STREAK_CHANGED ? "changed" : "unchanged"}, ${STREAK_FRESH ? "fresh" : "STALE (gate restored last known-good)"}.`
+    `Streak card ${STREAK_CHANGED ? "changed" : "unchanged"}, ${STREAK_FRESH ? "fresh" : "STALE (gate restored last known-good)"}. ` +
+    `Language card ${languagesChanged ? "changed" : "unchanged"}.`
 );

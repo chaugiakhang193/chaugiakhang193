@@ -70,6 +70,10 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 - **1** star earned
 <!--END_SECTION:stats-->
 
+<!--START_SECTION:languages-->
+<img src="./assets/languages.svg?v=202609180040" alt="Language share across my repositories" width="495" />
+<!--END_SECTION:languages-->
+
 <!--START_SECTION:streak-->
 <img src="./assets/streak.svg?v=202609180010" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
