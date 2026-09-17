@@ -37,6 +37,9 @@ const BAR_HEIGHT = 10;
 const LEGEND_TOP = 90;
 const ROW_HEIGHT = 25;
 const COLUMNS = 2;
+// The streak card's own height. The two cards sit side by side in the README, so
+// a shorter card here would leave the pair visibly uneven.
+const MIN_HEIGHT = 195;
 
 export async function fetchLanguageShares(repos, gh) {
   const bytes = new Map();
@@ -86,7 +89,7 @@ function formatShare(share) {
 
 export function renderLanguageCard(shares) {
   const rows = Math.ceil(shares.length / COLUMNS);
-  const height = LEGEND_TOP + rows * ROW_HEIGHT;
+  const height = Math.max(MIN_HEIGHT, LEGEND_TOP + rows * ROW_HEIGHT);
   const columnWidth = BAR_WIDTH / COLUMNS;
 
   let x = PADDING_X;

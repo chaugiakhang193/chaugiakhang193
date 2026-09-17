@@ -157,7 +157,7 @@ function renderStamp(date) {
 // images through its camo proxy, which caches by URL — without a changing URL the
 // proxy can keep handing out a streak card from hours ago no matter what we commit.
 function renderStreak(version) {
-  return `<img src="./assets/streak.svg?v=${version}" alt="GitHub streak" width="495" />`;
+  return `<img src="./assets/streak.svg?v=${version}" alt="GitHub streak" width="420" />`;
 }
 
 // A failed language fetch must not take the rest of the page down with it. The
@@ -184,7 +184,7 @@ async function refreshLanguageCard(repos) {
 }
 
 function renderLanguages(version) {
-  return `<img src="./assets/languages.svg?v=${version}" alt="Language share across my repositories" width="495" />`;
+  return `<img src="./assets/languages.svg?v=${version}" alt="Language share across my repositories" width="420" />`;
 }
 
 function stampVersion(date) {
