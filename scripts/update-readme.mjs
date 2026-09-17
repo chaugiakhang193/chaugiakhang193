@@ -46,11 +46,12 @@ function escapePipe(text) {
 }
 
 async function fetchLatestCommits(limit = 5) {
-  // The profile repo only holds this workflow's own auto-commits, so it is
-  // excluded here. Fetch a wider window and filter, then keep the top `limit`.
+  // The profile repo only holds this workflow's own auto-commits. Excluding it
+  // inside the query matters: filtering a fixed window afterwards left the
+  // section empty once a week of bot commits filled the whole window.
   const profileRepo = `${USER}/${USER}`;
   const data = await gh(
-    `/search/commits?q=author:${USER}+is:public&sort=author-date&order=desc&per_page=30`
+    `/search/commits?q=author:${USER}+is:public+-repo:${profileRepo}&sort=author-date&order=desc&per_page=${limit}`
   );
   return data.items
     .filter((item) => item.repository.full_name !== profileRepo)
