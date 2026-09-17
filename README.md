@@ -53,23 +53,29 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 ## Recently
 <!--START_SECTION:activity-->
-_No recent public commits outside this profile repo._
+| Repo | Commit | When |
+| :--- | :--- | ---: |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [1. chore(repo): scaffold FastAPI app with a health check](https://github.com/chaugiakhang193/fastapi-air-quality/commit/19447e2af95804d3f11efe1f0e1675ea0305e896) | today |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [540. fix(backend): stop retrying a refused wake into the ground](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/bc94f4a39c25a75b63daca6b6d5e03154e950f9d) | 11 days ago |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [539. fix(backend): tell a refused wake apart from a bad request on the search metric](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/92c7e80ee18f1112e27b55fb6d38ef2170e63db0) | 12 days ago |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [538. docs(deploy): write down how the four free services are kept awake](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/604f89b8cae1573d5461796bda740e43ddf4642c) | 12 days ago |
+| [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [537. fix(backend): keep the request path off a search service that may be asleep](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/48d064c59e9324bd9b0111f7bb2c1b64e2f7f333) | 12 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **852** public commits
-- **10** own repositories (forks excluded)
-- **4** languages — JavaScript, TypeScript, Go, Java
+- **854** public commits
+- **11** own repositories (forks excluded)
+- **5** languages — JavaScript, Python, TypeScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609172030" alt="GitHub streak" width="495" />
+<img src="./assets/streak.svg?v=202609180010" alt="GitHub streak" width="495" />
 <!--END_SECTION:streak-->
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>20:30 · 17 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>00:10 · 18 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
