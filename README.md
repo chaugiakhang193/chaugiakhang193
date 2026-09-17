@@ -1,16 +1,16 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on [fullstack multi vendor ecommerce](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce)<br><br>- 🌱 I’m currently learning **NESTJS, NEXTJS, GO**<br><br>- 👨‍💻 All of my projects are available at [https://fullstack-multi-vendor-ecommerce.vercel.app/](https://fullstack-multi-vendor-ecommerce.vercel.app/)<br><br>- 🌐 My portfolio — [chau-gia-khang-portfolio.vercel.app](https://chau-gia-khang-portfolio.vercel.app/)<br><br>- 📫 How to reach me **chaugiakhang193@gmail.com**<br><br>- 📄 Know about my experiences — [My CV](https://docs.google.com/document/d/1yi1aelFcPPiFG44GblT4AKw4kbWy0uxliNGLS7MON60/edit?tab=t.0)
+<br>- 🔭 I’m currently working on [fullstack multi vendor ecommerce](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) and [fastapi air quality](https://github.com/chaugiakhang193/fastapi-air-quality)<br><br>- 🌱 I’m currently learning **NESTJS, NEXTJS, GO, FASTAPI, PYTHON**<br><br>- 👨‍💻 All of my projects are available at [https://fullstack-multi-vendor-ecommerce.vercel.app/](https://fullstack-multi-vendor-ecommerce.vercel.app/)<br><br>- 🌐 My portfolio — [chau-gia-khang-portfolio.vercel.app](https://chau-gia-khang-portfolio.vercel.app/)<br><br>- 📫 How to reach me **chaugiakhang193@gmail.com**<br><br>- 📄 Know about my experiences — [My CV](https://docs.google.com/document/d/1yi1aelFcPPiFG44GblT4AKw4kbWy0uxliNGLS7MON60/edit?tab=t.0)
 
 # 💻 Tech Stack:
 
 <table>
   <tr>
     <td align="center" width="150"><b>Languages</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=go,ts,js,html,css&theme=dark" alt="Languages" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=go,ts,js,py,html,css&theme=dark" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mysql,mongodb,redis,rabbitmq&theme=dark" alt="Backend" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,fastapi,postgres,mysql,mongodb,redis,rabbitmq&theme=dark" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -22,7 +22,10 @@
   </tr>
   <tr>
     <td align="center"><b>Test &amp; Monitor</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=jest,sentry&theme=dark" alt="Testing" /></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=jest,sentry&theme=dark" alt="Testing" />
+      <img height="48" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+    </td>
   </tr>
   <tr>
     <td align="center"><b>Others</b></td>
@@ -38,11 +41,11 @@
 <!--
 FALLBACK when skillicons.dev is down: delete the <table> above and uncomment this block.
 
-**Languages** — Go · TypeScript · JavaScript · HTML · CSS
-**Backend** — NestJS · Node.js · Express · PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ
+**Languages** — Go · TypeScript · JavaScript · Python · HTML · CSS
+**Backend** — NestJS · Node.js · Express · FastAPI · PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ
 **Frontend** — React · Next.js · Tailwind · Bootstrap
 **DevOps & Deploy** — Docker · GitHub Actions · Git · GitHub · Vercel
-**Test & Monitor** — Jest · Sentry
+**Test & Monitor** — Jest · Pytest · Sentry
 **Others** — OpenTelemetry · Swagger · Socket.io · React Query
 -->
 
