@@ -58,13 +58,13 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 | [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [6. feat(api): add unified success/error response envelope](https://github.com/chaugiakhang193/fastapi-air-quality/commit/a9dfb4e115c2b4a3592222895fd82da8c17635a5) | today |
 | [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [5. fix(clients): validate Open-Meteo response order before pairing results](https://github.com/chaugiakhang193/fastapi-air-quality/commit/fb653ddb06f8b0d6464f9d5ce7700ed6ae41cc05) | today |
 | [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [4. feat(db): add async SQLAlchemy persistence, snapshot job, and daily aggregation](https://github.com/chaugiakhang193/fastapi-air-quality/commit/b63ff30d2be851ea0495650368992b29c10535d6) | today |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [3. feat(api): add locations, Open-Meteo proxy, and request middleware](https://github.com/chaugiakhang193/fastapi-air-quality/commit/99b3e1e6947cebdd78b9df8207c2c6c47b36a637) | 3 days ago |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [3. feat(api): add locations, Open-Meteo proxy, and request middleware](https://github.com/chaugiakhang193/fastapi-air-quality/commit/99b3e1e6947cebdd78b9df8207c2c6c47b36a637) | 4 days ago |
 | [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [2. feat(repo): add local infra and Open-Meteo exploration lab](https://github.com/chaugiakhang193/fastapi-air-quality/commit/610465dac3013da362e1510e608c356aa1527eac) | 4 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **887** public commits
+- **888** public commits
 - **11** own repositories (forks excluded)
 - **5** languages — JavaScript, Python, TypeScript, Go, Java
 - **1** star earned
@@ -72,15 +72,15 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609230600" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202609231448" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202609230600" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202609231448" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>06:00 · 23 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>14:48 · 23 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
