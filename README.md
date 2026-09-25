@@ -55,32 +55,32 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [8. feat(api): normalise Locations codes and isolate test settings](https://github.com/chaugiakhang193/fastapi-air-quality/commit/a845928b129930b2cd065ab7a2af50ba9edc6a35) | yesterday |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [7. feat(api): add Pydantic v2 schemas for air-quality query and responses](https://github.com/chaugiakhang193/fastapi-air-quality/commit/2e120aea942bbc9a0ff09628b1748eab9bbe0479) | yesterday |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [6. feat(api): add unified success/error response envelope](https://github.com/chaugiakhang193/fastapi-air-quality/commit/a9dfb4e115c2b4a3592222895fd82da8c17635a5) | 2 days ago |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [5. fix(clients): validate Open-Meteo response order before pairing results](https://github.com/chaugiakhang193/fastapi-air-quality/commit/fb653ddb06f8b0d6464f9d5ce7700ed6ae41cc05) | 2 days ago |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [4. feat(db): add async SQLAlchemy persistence, snapshot job, and daily aggregation](https://github.com/chaugiakhang193/fastapi-air-quality/commit/b63ff30d2be851ea0495650368992b29c10535d6) | 2 days ago |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [10. fix(infra): use 127.0.0.1 for Postgres and Redis in .env.example](https://github.com/chaugiakhang193/fastapi-air-quality/commit/eaaeff87df077f35cdfe9c4fb6c482e505ad1494) | today |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [9. test(snapshots): cover snapshot rules and local-day boundaries](https://github.com/chaugiakhang193/fastapi-air-quality/commit/407c10ba0da3a85282fec9158a2803ade5dd85c1) | today |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [8. feat(api): normalise Locations codes and isolate test settings](https://github.com/chaugiakhang193/fastapi-air-quality/commit/a845928b129930b2cd065ab7a2af50ba9edc6a35) | 2 days ago |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [7. feat(api): add Pydantic v2 schemas for air-quality query and responses](https://github.com/chaugiakhang193/fastapi-air-quality/commit/2e120aea942bbc9a0ff09628b1748eab9bbe0479) | 2 days ago |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [6. feat(api): add unified success/error response envelope](https://github.com/chaugiakhang193/fastapi-air-quality/commit/a9dfb4e115c2b4a3592222895fd82da8c17635a5) | 3 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **899** public commits
+- **902** public commits
 - **11** own repositories (forks excluded)
-- **5** languages — JavaScript, Python, TypeScript, Go, Java
+- **5** languages — Python, JavaScript, TypeScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609252051" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202609260139" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202609252051" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202609260139" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>20:51 · 25 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>01:39 · 26 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
