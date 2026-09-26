@@ -55,32 +55,32 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [Initialize Go module and repo hygiene files](https://github.com/chaugiakhang193/go-mini-feed/commit/0fdf4090ea75cf61b1707655a342a998099598a1) | today |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [17. docs(readme): document architecture, data flow, setup and tests](https://github.com/chaugiakhang193/fastapi-air-quality/commit/16a80b8118999276254f8a7ed154de267e72d146) | today |
+| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [16. feat(snapshots): run take_snapshot on a schedule inside the app](https://github.com/chaugiakhang193/fastapi-air-quality/commit/724b5a7acbf4cdd85b33c899834528354bb0ae76) | today |
 | [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [15. fix(api): treat an invalid daily cache entry as a miss](https://github.com/chaugiakhang193/fastapi-air-quality/commit/fa41582752b53e62d2dd7bc304b012a4907f7c04) | today |
 | [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [14. feat(api): list snapshot runs with keyset pagination](https://github.com/chaugiakhang193/fastapi-air-quality/commit/84e8b8eb745cf2e9f9e8c81911ea61cc021b4c62) | today |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [13. feat(api): add GET /locations/{code}](https://github.com/chaugiakhang193/fastapi-air-quality/commit/df5e699150f5684c8be788794bdf3eccc45331c2) | today |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [12. fix(labs): isolate the FastAPI request case in the TYPE_CHECKING lab](https://github.com/chaugiakhang193/fastapi-air-quality/commit/9482a9aeae6c360537b444177c6b09f8650a72ac) | today |
-| [`fastapi-air-quality`](https://github.com/chaugiakhang193/fastapi-air-quality) | [11. feat(api): cache daily aggregates in Redis with snapshot invalidation](https://github.com/chaugiakhang193/fastapi-air-quality/commit/3f7fcbc71b852a04822d7fd0f0e758ee08b6c5db) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **909** public commits
-- **11** own repositories (forks excluded)
+- **913** public commits
+- **12** own repositories (forks excluded)
 - **5** languages — Python, JavaScript, TypeScript, Go, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609261447" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202609262008" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202609261447" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202609262008" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>14:47 · 26 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>20:08 · 26 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
