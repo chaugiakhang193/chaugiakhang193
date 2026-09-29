@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="languages-title">
-<title id="languages-title">Language share: TypeScript 45.4%, Go 20.2%, JavaScript 8.2%, Java 5.5%, Python 5.3%, Mako 0.4%, Other 15.0%</title>
+<title id="languages-title">Language share: TypeScript 45.3%, Go 20.5%, JavaScript 8.1%, Java 5.5%, Python 5.2%, Mako 0.4%, Other 14.9%</title>
 <style>
 .title{font:600 18px 'Segoe UI',Ubuntu,sans-serif;fill:#FEFEFE}
 .note{font:400 11px 'Segoe UI',Ubuntu,sans-serif;fill:#9E9E9E}
@@ -10,12 +10,12 @@
 <text x="25" y="34" class="title">Languages</text>
 <text x="470" y="34" text-anchor="end" class="note">weighted by code size and repo count</text>
 <clipPath id="languages-bar"><rect x="25" y="50" width="445" height="10" rx="5"/></clipPath>
-<g clip-path="url(#languages-bar)"><rect x="25.00" y="50" width="202.24" height="10" fill="#3178c6"/><rect x="227.24" y="50" width="90.04" height="10" fill="#00ADD8"/><rect x="317.28" y="50" width="36.35" height="10" fill="#f1e05a"/><rect x="353.63" y="50" width="24.66" height="10" fill="#b07219"/><rect x="378.28" y="50" width="23.38" height="10" fill="#3572A5"/><rect x="401.66" y="50" width="1.76" height="10" fill="#c9d1d9"/><rect x="403.42" y="50" width="66.58" height="10" fill="#8b949e"/></g>
-<circle cx="30" cy="86" r="5" fill="#3178c6"/><text x="41" y="90" class="label">TypeScript <tspan class="share">45.4%</tspan></text>
-<circle cx="30" cy="111" r="5" fill="#00ADD8"/><text x="41" y="115" class="label">Go <tspan class="share">20.2%</tspan></text>
-<circle cx="30" cy="136" r="5" fill="#f1e05a"/><text x="41" y="140" class="label">JavaScript <tspan class="share">8.2%</tspan></text>
+<g clip-path="url(#languages-bar)"><rect x="25.00" y="50" width="201.51" height="10" fill="#3178c6"/><rect x="226.51" y="50" width="91.32" height="10" fill="#00ADD8"/><rect x="317.83" y="50" width="36.22" height="10" fill="#f1e05a"/><rect x="354.05" y="50" width="24.57" height="10" fill="#b07219"/><rect x="378.61" y="50" width="23.30" height="10" fill="#3572A5"/><rect x="401.91" y="50" width="1.75" height="10" fill="#c9d1d9"/><rect x="403.66" y="50" width="66.34" height="10" fill="#8b949e"/></g>
+<circle cx="30" cy="86" r="5" fill="#3178c6"/><text x="41" y="90" class="label">TypeScript <tspan class="share">45.3%</tspan></text>
+<circle cx="30" cy="111" r="5" fill="#00ADD8"/><text x="41" y="115" class="label">Go <tspan class="share">20.5%</tspan></text>
+<circle cx="30" cy="136" r="5" fill="#f1e05a"/><text x="41" y="140" class="label">JavaScript <tspan class="share">8.1%</tspan></text>
 <circle cx="30" cy="161" r="5" fill="#b07219"/><text x="41" y="165" class="label">Java <tspan class="share">5.5%</tspan></text>
-<circle cx="252.5" cy="86" r="5" fill="#3572A5"/><text x="263.5" y="90" class="label">Python <tspan class="share">5.3%</tspan></text>
+<circle cx="252.5" cy="86" r="5" fill="#3572A5"/><text x="263.5" y="90" class="label">Python <tspan class="share">5.2%</tspan></text>
 <circle cx="252.5" cy="111" r="5" fill="#c9d1d9"/><text x="263.5" y="115" class="label">Mako <tspan class="share">0.4%</tspan></text>
-<circle cx="252.5" cy="136" r="5" fill="#8b949e"/><text x="263.5" y="140" class="label">Other <tspan class="share">15.0%</tspan></text>
+<circle cx="252.5" cy="136" r="5" fill="#8b949e"/><text x="263.5" y="140" class="label">Other <tspan class="share">14.9%</tspan></text>
 </svg>
