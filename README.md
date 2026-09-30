@@ -57,14 +57,14 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 | :--- | :--- | ---: |
 | [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [9. feat(fix): encode and decode FIX 4.4 framing](https://github.com/chaugiakhang193/go-mini-feed/commit/8da8a54406195f0b0946da4566a9494a5ab17138) | today |
 | [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [8. docs(readme): describe the pipeline, status and local setup](https://github.com/chaugiakhang193/go-mini-feed/commit/a4004416f7738ac3454237c79a0bf94f9c1ff40a) | 2 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [7. refactor(config): drop the unused index exchange](https://github.com/chaugiakhang193/go-mini-feed/commit/4bc8b2a8dc9ebd638939fc8f67a21a46c57f5207) | 2 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [6. chore(infra): publish RabbitMQ and Redis on non-default host ports](https://github.com/chaugiakhang193/go-mini-feed/commit/a316018e654620031d676f4a41d562e2de22995f) | 2 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [5. test(config): cover every Redis database field](https://github.com/chaugiakhang193/go-mini-feed/commit/34a36a3dba749385d3ff264858b290db07b744ac) | 2 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [7. refactor(config): drop the unused index exchange](https://github.com/chaugiakhang193/go-mini-feed/commit/4bc8b2a8dc9ebd638939fc8f67a21a46c57f5207) | 3 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [6. chore(infra): publish RabbitMQ and Redis on non-default host ports](https://github.com/chaugiakhang193/go-mini-feed/commit/a316018e654620031d676f4a41d562e2de22995f) | 3 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [5. test(config): cover every Redis database field](https://github.com/chaugiakhang193/go-mini-feed/commit/34a36a3dba749385d3ff264858b290db07b744ac) | 3 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **934** public commits
+- **935** public commits
 - **12** own repositories (forks excluded)
 - **5** languages — JavaScript, Go, Python, TypeScript, Java
 - **1** star earned
@@ -72,15 +72,15 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202609300646" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202609301538" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202609300646" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202609301538" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>06:46 · 30 Sep 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>15:38 · 30 Sep 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
