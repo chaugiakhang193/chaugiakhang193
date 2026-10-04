@@ -55,7 +55,7 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [15. feat(labs): measure per-key order in a keyed worker pool](https://github.com/chaugiakhang193/go-mini-feed/commit/90a42f04a96c9adfd30027b6b1a0fad830a18124) | 2 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [15. feat(labs): measure per-key order in a keyed worker pool](https://github.com/chaugiakhang193/go-mini-feed/commit/90a42f04a96c9adfd30027b6b1a0fad830a18124) | 3 days ago |
 | [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [14. docs(readme): list the RabbitMQ labs](https://github.com/chaugiakhang193/go-mini-feed/commit/e510bea66c920c04fc9a0d05705f7451f7355899) | 4 days ago |
 | [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [13. feat(labs): cap retries of a poison message](https://github.com/chaugiakhang193/go-mini-feed/commit/b31cf9e29a59722812ba7b76667b6763cc1b93f3) | 4 days ago |
 | [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [12. feat(labs): count messages that survive a broker restart](https://github.com/chaugiakhang193/go-mini-feed/commit/cf79e8ec52f079c3404d38b29f39d7599a23f7e0) | 4 days ago |
@@ -64,7 +64,7 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **959** public commits
+- **960** public commits
 - **12** own repositories (forks excluded)
 - **5** languages — JavaScript, Go, TypeScript, Python, Java
 - **1** star earned
@@ -72,15 +72,15 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202610050111" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202610050616" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202610050111" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202610050616" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>01:11 · 5 Oct 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>06:16 · 5 Oct 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
