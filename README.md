@@ -55,32 +55,32 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [15. feat(labs): measure per-key order in a keyed worker pool](https://github.com/chaugiakhang193/go-mini-feed/commit/90a42f04a96c9adfd30027b6b1a0fad830a18124) | 5 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [14. docs(readme): list the RabbitMQ labs](https://github.com/chaugiakhang193/go-mini-feed/commit/e510bea66c920c04fc9a0d05705f7451f7355899) | 6 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [13. feat(labs): cap retries of a poison message](https://github.com/chaugiakhang193/go-mini-feed/commit/b31cf9e29a59722812ba7b76667b6763cc1b93f3) | 6 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [12. feat(labs): count messages that survive a broker restart](https://github.com/chaugiakhang193/go-mini-feed/commit/cf79e8ec52f079c3404d38b29f39d7599a23f7e0) | 6 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [11. feat(labs): measure publisher confirms and mandatory returns](https://github.com/chaugiakhang193/go-mini-feed/commit/6f0a1147a0298657b3dc3b1abb861ad6b1e01151) | 6 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [15. feat(labs): measure per-key order in a keyed worker pool](https://github.com/chaugiakhang193/go-mini-feed/commit/90a42f04a96c9adfd30027b6b1a0fad830a18124) | 6 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [14. docs(readme): list the RabbitMQ labs](https://github.com/chaugiakhang193/go-mini-feed/commit/e510bea66c920c04fc9a0d05705f7451f7355899) | 7 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [13. feat(labs): cap retries of a poison message](https://github.com/chaugiakhang193/go-mini-feed/commit/b31cf9e29a59722812ba7b76667b6763cc1b93f3) | 7 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [12. feat(labs): count messages that survive a broker restart](https://github.com/chaugiakhang193/go-mini-feed/commit/cf79e8ec52f079c3404d38b29f39d7599a23f7e0) | 7 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [11. feat(labs): measure publisher confirms and mandatory returns](https://github.com/chaugiakhang193/go-mini-feed/commit/6f0a1147a0298657b3dc3b1abb861ad6b1e01151) | 7 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **970** public commits
+- **971** public commits
 - **12** own repositories (forks excluded)
-- **5** languages — TypeScript, JavaScript, Go, Python, Java
+- **5** languages — JavaScript, TypeScript, Go, Python, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202610072234" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202610080300" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202610072234" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202610080300" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>22:34 · 7 Oct 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>03:00 · 8 Oct 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
