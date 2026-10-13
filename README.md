@@ -57,14 +57,14 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 | :--- | :--- | ---: |
 | [`go-kafka-lab`](https://github.com/chaugiakhang193/go-kafka-lab) | [2. feat(labs): add keyed producer lab printing partition and offset](https://github.com/chaugiakhang193/go-kafka-lab/commit/2546373a0ed106d83e1469e9fe4ab1812bf739c3) | 4 days ago |
 | [`go-kafka-lab`](https://github.com/chaugiakhang193/go-kafka-lab) | [1. chore(infra): add single-node Kafka stack and repository skeleton](https://github.com/chaugiakhang193/go-kafka-lab/commit/e08eb2d9e380f83e30fc3bebe8318cc0dca69f32) | 4 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [15. feat(labs): measure per-key order in a keyed worker pool](https://github.com/chaugiakhang193/go-mini-feed/commit/90a42f04a96c9adfd30027b6b1a0fad830a18124) | 11 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [14. docs(readme): list the RabbitMQ labs](https://github.com/chaugiakhang193/go-mini-feed/commit/e510bea66c920c04fc9a0d05705f7451f7355899) | 12 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [13. feat(labs): cap retries of a poison message](https://github.com/chaugiakhang193/go-mini-feed/commit/b31cf9e29a59722812ba7b76667b6763cc1b93f3) | 12 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [15. feat(labs): measure per-key order in a keyed worker pool](https://github.com/chaugiakhang193/go-mini-feed/commit/90a42f04a96c9adfd30027b6b1a0fad830a18124) | 12 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [14. docs(readme): list the RabbitMQ labs](https://github.com/chaugiakhang193/go-mini-feed/commit/e510bea66c920c04fc9a0d05705f7451f7355899) | 13 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [13. feat(labs): cap retries of a poison message](https://github.com/chaugiakhang193/go-mini-feed/commit/b31cf9e29a59722812ba7b76667b6763cc1b93f3) | 13 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **996** public commits
+- **997** public commits
 - **13** own repositories (forks excluded)
 - **5** languages — JavaScript, Go, TypeScript, Python, Java
 - **1** star earned
@@ -72,15 +72,15 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202610132302" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202610140316" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202610132302" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202610140316" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>23:02 · 13 Oct 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>03:16 · 14 Oct 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
