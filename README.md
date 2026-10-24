@@ -55,32 +55,32 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [2. feat(order): scaffold order-service with a Postgres health check](https://github.com/chaugiakhang193/ShopFlow/commit/bb65352043ab4742b1dc11264d9efd663dfa378f) | today |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [541. docs(repo): add a portfolio license and a coursework notice](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/f8641556c8ad6b7c99fc29962019dca9f8342994) | yesterday |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [1. chore(repo): add license, readme and project scaffolding](https://github.com/chaugiakhang193/ShopFlow/commit/99be3c537c66ee42ad4d53f2b5c5cf3b34214a88) | yesterday |
 | [`go-kafka-lab`](https://github.com/chaugiakhang193/go-kafka-lab) | [2. feat(labs): add keyed producer lab printing partition and offset](https://github.com/chaugiakhang193/go-kafka-lab/commit/2546373a0ed106d83e1469e9fe4ab1812bf739c3) | 14 days ago |
 | [`go-kafka-lab`](https://github.com/chaugiakhang193/go-kafka-lab) | [1. chore(infra): add single-node Kafka stack and repository skeleton](https://github.com/chaugiakhang193/go-kafka-lab/commit/e08eb2d9e380f83e30fc3bebe8318cc0dca69f32) | 14 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [15. feat(labs): measure per-key order in a keyed worker pool](https://github.com/chaugiakhang193/go-mini-feed/commit/90a42f04a96c9adfd30027b6b1a0fad830a18124) | 22 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,040** public commits
+- **1,042** public commits
 - **14** own repositories (forks excluded)
-- **5** languages — JavaScript, TypeScript, Go, Python, Java
+- **5** languages — TypeScript, JavaScript, Go, Python, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202610240612" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202610241421" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202610240612" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202610241421" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>06:12 · 24 Oct 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>14:21 · 24 Oct 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
