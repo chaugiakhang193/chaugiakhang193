@@ -58,13 +58,13 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [3. feat(repo): add boundary library for request context and logged calls](https://github.com/chaugiakhang193/ShopFlow/commit/a740e18cb9e52098f10f721a9bf13d10c7933ab3) | 5 days ago |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [2. feat(order): scaffold order-service with a Postgres health check](https://github.com/chaugiakhang193/ShopFlow/commit/bb65352043ab4742b1dc11264d9efd663dfa378f) | 6 days ago |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [541. docs(repo): add a portfolio license and a coursework notice](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/f8641556c8ad6b7c99fc29962019dca9f8342994) | 7 days ago |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [1. chore(repo): add license, readme and project scaffolding](https://github.com/chaugiakhang193/ShopFlow/commit/99be3c537c66ee42ad4d53f2b5c5cf3b34214a88) | 7 days ago |
-| [`go-kafka-lab`](https://github.com/chaugiakhang193/go-kafka-lab) | [2. feat(labs): add keyed producer lab printing partition and offset](https://github.com/chaugiakhang193/go-kafka-lab/commit/2546373a0ed106d83e1469e9fe4ab1812bf739c3) | 20 days ago |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [1. chore(repo): add license, readme and project scaffolding](https://github.com/chaugiakhang193/ShopFlow/commit/99be3c537c66ee42ad4d53f2b5c5cf3b34214a88) | 8 days ago |
+| [`go-kafka-lab`](https://github.com/chaugiakhang193/go-kafka-lab) | [2. feat(labs): add keyed producer lab printing partition and offset](https://github.com/chaugiakhang193/go-kafka-lab/commit/2546373a0ed106d83e1469e9fe4ab1812bf739c3) | 21 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,067** public commits
+- **1,068** public commits
 - **14** own repositories (forks excluded)
 - **5** languages — JavaScript, TypeScript, Go, Python, Java
 - **1** star earned
@@ -72,15 +72,15 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202610301542" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202610302204" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202610301542" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202610302204" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>15:42 · 30 Oct 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>22:04 · 30 Oct 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
