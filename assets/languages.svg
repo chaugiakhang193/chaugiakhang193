@@ -10,7 +10,7 @@
 <text x="25" y="34" class="title">Languages</text>
 <text x="470" y="34" text-anchor="end" class="note">weighted by code size and repo count</text>
 <clipPath id="languages-bar"><rect x="25" y="50" width="445" height="10" rx="5"/></clipPath>
-<g clip-path="url(#languages-bar)"><rect x="25.00" y="50" width="203.04" height="10" fill="#3178c6"/><rect x="228.04" y="50" width="105.81" height="10" fill="#00ADD8"/><rect x="333.84" y="50" width="37.14" height="10" fill="#3572A5"/><rect x="370.98" y="50" width="27.36" height="10" fill="#f1e05a"/><rect x="398.34" y="50" width="18.56" height="10" fill="#b07219"/><rect x="416.89" y="50" width="1.32" height="10" fill="#c9d1d9"/><rect x="418.22" y="50" width="51.78" height="10" fill="#8b949e"/></g>
+<g clip-path="url(#languages-bar)"><rect x="25.00" y="50" width="203.05" height="10" fill="#3178c6"/><rect x="228.05" y="50" width="105.80" height="10" fill="#00ADD8"/><rect x="333.85" y="50" width="37.14" height="10" fill="#3572A5"/><rect x="370.98" y="50" width="27.36" height="10" fill="#f1e05a"/><rect x="398.34" y="50" width="18.56" height="10" fill="#b07219"/><rect x="416.90" y="50" width="1.32" height="10" fill="#c9d1d9"/><rect x="418.22" y="50" width="51.78" height="10" fill="#8b949e"/></g>
 <circle cx="30" cy="86" r="5" fill="#3178c6"/><text x="41" y="90" class="label">TypeScript <tspan class="share">45.6%</tspan></text>
 <circle cx="30" cy="111" r="5" fill="#00ADD8"/><text x="41" y="115" class="label">Go <tspan class="share">23.8%</tspan></text>
 <circle cx="30" cy="136" r="5" fill="#3572A5"/><text x="41" y="140" class="label">Python <tspan class="share">8.3%</tspan></text>
