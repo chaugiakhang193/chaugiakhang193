@@ -59,28 +59,28 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [3. feat(repo): add boundary library for request context and logged calls](https://github.com/chaugiakhang193/ShopFlow/commit/a740e18cb9e52098f10f721a9bf13d10c7933ab3) | 20 days ago |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [2. feat(order): scaffold order-service with a Postgres health check](https://github.com/chaugiakhang193/ShopFlow/commit/bb65352043ab4742b1dc11264d9efd663dfa378f) | 21 days ago |
 | [`fullstack-multi-vendor-ecommerce`](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce) | [541. docs(repo): add a portfolio license and a coursework notice](https://github.com/chaugiakhang193/fullstack-multi-vendor-ecommerce/commit/f8641556c8ad6b7c99fc29962019dca9f8342994) | 22 days ago |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [1. chore(repo): add license, readme and project scaffolding](https://github.com/chaugiakhang193/ShopFlow/commit/99be3c537c66ee42ad4d53f2b5c5cf3b34214a88) | 22 days ago |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [1. chore(repo): add license, readme and project scaffolding](https://github.com/chaugiakhang193/ShopFlow/commit/99be3c537c66ee42ad4d53f2b5c5cf3b34214a88) | 23 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,128** public commits
+- **1,129** public commits
 - **15** own repositories (forks excluded)
-- **5** languages — Go, JavaScript, TypeScript, Python, Java
+- **5** languages — JavaScript, Go, TypeScript, Python, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202611141601" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202611142207" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202611141601" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202611142207" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>16:01 · 14 Nov 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>22:07 · 14 Nov 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
