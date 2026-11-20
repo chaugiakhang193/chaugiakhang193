@@ -55,32 +55,32 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [8. feat(tooling): count stock deducted by declined payments](https://github.com/chaugiakhang193/ShopFlow/commit/44eb52190f537059034b0166496c7bdcbbb647a0) | yesterday |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [7. feat(tooling): measure checkout latency at two payment delays](https://github.com/chaugiakhang193/ShopFlow/commit/426920a3fda9e0c9cfe848d69b6a126966185a5c) | yesterday |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [6. docs(repo): add Day 01 checkout lesson](https://github.com/chaugiakhang193/ShopFlow/commit/fa19a66c6633e59bebbcbcd5bae36311456700e1) | yesterday |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [5. feat(order): add synchronous single-SKU checkout](https://github.com/chaugiakhang193/ShopFlow/commit/5f89a806c2e88a55edb956d149742b9e119717f2) | 5 days ago |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [4. feat(order): log order-service as JSON with request ids on request lines](https://github.com/chaugiakhang193/ShopFlow/commit/54777df6bd20d4bc9a34cbd784577a8cc34015a5) | 5 days ago |
-| [`spanlog`](https://github.com/chaugiakhang193/spanlog) | [42. docs(mcp): document the MCP server and describe it for the registry](https://github.com/chaugiakhang193/spanlog/commit/b1d7bb1236da5b8c0da5e1aedd7fbea2fcc39b43) | 5 days ago |
-| [`spanlog`](https://github.com/chaugiakhang193/spanlog) | [41. feat(mcp): add the failures and slowest tools](https://github.com/chaugiakhang193/spanlog/commit/f2204352fdbb1734ffe67c78ca4bf53b4dd3e7f3) | 5 days ago |
-| [`spanlog`](https://github.com/chaugiakhang193/spanlog) | [40. feat(mcp): add an MCP server that finds the lines of one request](https://github.com/chaugiakhang193/spanlog/commit/e54e474bcf4e5d597ca599e8ad069c6a264bf473) | 6 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,158** public commits
+- **1,162** public commits
 - **15** own repositories (forks excluded)
-- **5** languages — JavaScript, TypeScript, Go, Python, Java
+- **5** languages — TypeScript, JavaScript, Go, Python, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202611202359" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202611210451" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202611202359" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202611210451" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>23:59 · 20 Nov 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>04:51 · 21 Nov 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
