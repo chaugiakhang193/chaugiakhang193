@@ -55,32 +55,32 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [16. docs(repo): add Day 03 event-driven order lesson](https://github.com/chaugiakhang193/ShopFlow/commit/eef89f3a3dea2a57994dd35e115ec0cf7e9cca05) | today |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [15. feat(tooling): measure a stopped worker and a contested SKU](https://github.com/chaugiakhang193/ShopFlow/commit/afcc9424441698511d0a29a9fcc18545eef8e5cf) | today |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [14. feat(order): accept orders with 202 and publish OrderCreated](https://github.com/chaugiakhang193/ShopFlow/commit/01885b4c94f85c0215b41c9ae89ae787f5318dab) | today |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [13. feat(inventory): reserve stock from OrderCreated in inventory-worker](https://github.com/chaugiakhang193/ShopFlow/commit/92f1b4366c898cb2c41e3d17b70d8fb78702ea9a) | today |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [12. feat(messaging): publish and consume contract events over RabbitMQ](https://github.com/chaugiakhang193/ShopFlow/commit/7eb8394f773584962db50c482f4c5298b7d68297) | today |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [21. docs(repo): add Day 04 ack, prefetch and payment lesson](https://github.com/chaugiakhang193/ShopFlow/commit/c89420158c5b1a9de8b5cd79d20214979a7c7412) | today |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [40. docs(comments): give the reasons in comments their own sentences](https://github.com/chaugiakhang193/go-mini-feed/commit/5d4cc6b46e39177d51f25e3ca4d7ad84e313ad4e) | today |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [39. refactor(multicast): leave the context check of Run to the top of the loop](https://github.com/chaugiakhang193/go-mini-feed/commit/ff8f37aec720a3c01109d30ca3db2ddb01a64b7f) | today |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [38. test(gateway): count raw lines across day directories](https://github.com/chaugiakhang193/go-mini-feed/commit/ffc026173f654408e98a1f20c23f0284259eacff) | today |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [37. test(logger): cover a raw flush that fails only on Close](https://github.com/chaugiakhang193/go-mini-feed/commit/847a144ba4abdcbc92e053eab89f603279089b35) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,184** public commits
+- **1,204** public commits
 - **15** own repositories (forks excluded)
-- **5** languages — TypeScript, JavaScript, Go, Python, Java
+- **5** languages — Go, TypeScript, JavaScript, Python, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202611212311" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202611220333" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202611212311" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202611220333" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>23:11 · 21 Nov 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>03:33 · 22 Nov 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
