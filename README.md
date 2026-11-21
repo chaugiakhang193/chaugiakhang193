@@ -55,32 +55,32 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [8. feat(tooling): count stock deducted by declined payments](https://github.com/chaugiakhang193/ShopFlow/commit/44eb52190f537059034b0166496c7bdcbbb647a0) | yesterday |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [7. feat(tooling): measure checkout latency at two payment delays](https://github.com/chaugiakhang193/ShopFlow/commit/426920a3fda9e0c9cfe848d69b6a126966185a5c) | yesterday |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [6. docs(repo): add Day 01 checkout lesson](https://github.com/chaugiakhang193/ShopFlow/commit/fa19a66c6633e59bebbcbcd5bae36311456700e1) | yesterday |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [5. feat(order): add synchronous single-SKU checkout](https://github.com/chaugiakhang193/ShopFlow/commit/5f89a806c2e88a55edb956d149742b9e119717f2) | 5 days ago |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [4. feat(order): log order-service as JSON with request ids on request lines](https://github.com/chaugiakhang193/ShopFlow/commit/54777df6bd20d4bc9a34cbd784577a8cc34015a5) | 5 days ago |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [15. feat(tooling): measure a stopped worker and a contested SKU](https://github.com/chaugiakhang193/ShopFlow/commit/afcc9424441698511d0a29a9fcc18545eef8e5cf) | today |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [14. feat(order): accept orders with 202 and publish OrderCreated](https://github.com/chaugiakhang193/ShopFlow/commit/01885b4c94f85c0215b41c9ae89ae787f5318dab) | today |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [13. feat(inventory): reserve stock from OrderCreated in inventory-worker](https://github.com/chaugiakhang193/ShopFlow/commit/92f1b4366c898cb2c41e3d17b70d8fb78702ea9a) | today |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [12. feat(messaging): publish and consume contract events over RabbitMQ](https://github.com/chaugiakhang193/ShopFlow/commit/7eb8394f773584962db50c482f4c5298b7d68297) | today |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [11. feat(contracts): define versioned events with validated envelopes](https://github.com/chaugiakhang193/ShopFlow/commit/519a71881c156968962d19213b964b43432d9f69) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,163** public commits
+- **1,182** public commits
 - **15** own repositories (forks excluded)
-- **5** languages — JavaScript, TypeScript, Go, Python, Java
+- **5** languages — TypeScript, Go, JavaScript, Python, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202611210835" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202611211654" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202611210835" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202611211654" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>08:35 · 21 Nov 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>16:54 · 21 Nov 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
