@@ -55,32 +55,32 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 <!--START_SECTION:activity-->
 | Repo | Commit | When |
 | :--- | :--- | ---: |
+| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [16. docs(repo): add Day 03 event-driven order lesson](https://github.com/chaugiakhang193/ShopFlow/commit/eef89f3a3dea2a57994dd35e115ec0cf7e9cca05) | today |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [15. feat(tooling): measure a stopped worker and a contested SKU](https://github.com/chaugiakhang193/ShopFlow/commit/afcc9424441698511d0a29a9fcc18545eef8e5cf) | today |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [14. feat(order): accept orders with 202 and publish OrderCreated](https://github.com/chaugiakhang193/ShopFlow/commit/01885b4c94f85c0215b41c9ae89ae787f5318dab) | today |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [13. feat(inventory): reserve stock from OrderCreated in inventory-worker](https://github.com/chaugiakhang193/ShopFlow/commit/92f1b4366c898cb2c41e3d17b70d8fb78702ea9a) | today |
 | [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [12. feat(messaging): publish and consume contract events over RabbitMQ](https://github.com/chaugiakhang193/ShopFlow/commit/7eb8394f773584962db50c482f4c5298b7d68297) | today |
-| [`ShopFlow`](https://github.com/chaugiakhang193/ShopFlow) | [11. feat(contracts): define versioned events with validated envelopes](https://github.com/chaugiakhang193/ShopFlow/commit/519a71881c156968962d19213b964b43432d9f69) | today |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,182** public commits
+- **1,184** public commits
 - **15** own repositories (forks excluded)
-- **5** languages — TypeScript, Go, JavaScript, Python, Java
+- **5** languages — TypeScript, JavaScript, Go, Python, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202611211654" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202611212311" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202611211654" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202611212311" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>16:54 · 21 Nov 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>23:11 · 21 Nov 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
