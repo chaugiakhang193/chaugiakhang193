@@ -64,23 +64,23 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,204** public commits
+- **1,205** public commits
 - **15** own repositories (forks excluded)
-- **5** languages — Go, TypeScript, JavaScript, Python, Java
+- **5** languages — JavaScript, Go, TypeScript, Python, Java
 - **1** star earned
 <!--END_SECTION:stats-->
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202611220333" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202611220724" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202611220333" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202611220724" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>03:33 · 22 Nov 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>07:24 · 22 Nov 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
