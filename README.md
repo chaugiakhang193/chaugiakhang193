@@ -59,12 +59,12 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 | [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [40. docs(comments): give the reasons in comments their own sentences](https://github.com/chaugiakhang193/go-mini-feed/commit/5d4cc6b46e39177d51f25e3ca4d7ad84e313ad4e) | 5 days ago |
 | [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [39. refactor(multicast): leave the context check of Run to the top of the loop](https://github.com/chaugiakhang193/go-mini-feed/commit/ff8f37aec720a3c01109d30ca3db2ddb01a64b7f) | 5 days ago |
 | [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [38. test(gateway): count raw lines across day directories](https://github.com/chaugiakhang193/go-mini-feed/commit/ffc026173f654408e98a1f20c23f0284259eacff) | 5 days ago |
-| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [37. test(logger): cover a raw flush that fails only on Close](https://github.com/chaugiakhang193/go-mini-feed/commit/847a144ba4abdcbc92e053eab89f603279089b35) | 5 days ago |
+| [`go-mini-feed`](https://github.com/chaugiakhang193/go-mini-feed) | [37. test(logger): cover a raw flush that fails only on Close](https://github.com/chaugiakhang193/go-mini-feed/commit/847a144ba4abdcbc92e053eab89f603279089b35) | 6 days ago |
 <!--END_SECTION:activity-->
 
 ## By the numbers
 <!--START_SECTION:stats-->
-- **1,226** public commits
+- **1,227** public commits
 - **15** own repositories (forks excluded)
 - **5** languages — JavaScript, Go, TypeScript, Python, Java
 - **1** star earned
@@ -72,15 +72,15 @@ FALLBACK when skillicons.dev is down: delete the <table> above and uncomment thi
 
 <p align="center">
 <!--START_SECTION:streak-->
-<img src="./assets/streak.svg?v=202611271756" alt="GitHub streak" width="420" />
+<img src="./assets/streak.svg?v=202611280113" alt="GitHub streak" width="420" />
 <!--END_SECTION:streak-->
 <!--START_SECTION:languages-->
-<img src="./assets/languages.svg?v=202611271756" alt="Language share across my repositories" width="420" />
+<img src="./assets/languages.svg?v=202611280113" alt="Language share across my repositories" width="420" />
 <!--END_SECTION:languages-->
 </p>
 
 ---
 
 <!--START_SECTION:stamp-->
-<sub>🤖 Auto-updated by GitHub Actions — data as of <b>17:56 · 27 Nov 2026</b> (Vietnam time, UTC+7).</sub>
+<sub>🤖 Auto-updated by GitHub Actions — data as of <b>01:13 · 28 Nov 2026</b> (Vietnam time, UTC+7).</sub>
 <!--END_SECTION:stamp-->
